@@ -7,6 +7,11 @@ public class A {
 		System.out.println(s1.isBlank());
 		System.out.println(s1.isEmpty());
 		System.out.println(s1.length());
+
+		System.out.println(s1.isBlank());
+		System.out.println(s1.isEmpty());
+		System.out.println(s1.length());
+		
 		
 	}
 }
